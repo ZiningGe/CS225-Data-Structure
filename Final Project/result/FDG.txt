@@ -1,0 +1,4 @@
+Number of Airports: 100
+Number of Routes: 415
+
+The graph has been drawn

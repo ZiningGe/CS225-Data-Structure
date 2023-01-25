@@ -1,0 +1,8 @@
+Source airports: 1
+Destination airports: 5962
+
+Minimum distance:
+13973.4 KM
+
+Shortest path:
+1 5 1960 3728 3774 5967 5962 
